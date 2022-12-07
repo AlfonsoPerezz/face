@@ -1,0 +1,28 @@
+^C:\USERS\NENYC\ONEDRIVE\ESCRITORIO\JAZMIN\FLUTTER PROYECTS\RED_SOCIAL_FLUTTER\BUILD\WINDOWS\CMAKEFILES\474FD4856D840A768C930354B9FB4E4F\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\flutter "PROJECT_DIR=C:\Users\nenyc\OneDrive\Escritorio\Jazmin\Flutter Proyects\red_social_flutter" FLUTTER_ROOT=C:\flutter "FLUTTER_EPHEMERAL_DIR=C:\Users\nenyc\OneDrive\Escritorio\Jazmin\Flutter Proyects\red_social_flutter\windows\flutter\ephemeral" "PROJECT_DIR=C:\Users\nenyc\OneDrive\Escritorio\Jazmin\Flutter Proyects\red_social_flutter" "FLUTTER_TARGET=C:\Users\nenyc\OneDrive\Escritorio\Jazmin\Flutter Proyects\red_social_flutter\lib\main.dart" DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false "PACKAGE_CONFIG=C:\Users\nenyc\OneDrive\Escritorio\Jazmin\Flutter Proyects\red_social_flutter\.dart_tool\package_config.json" C:/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\NENYC\ONEDRIVE\ESCRITORIO\JAZMIN\FLUTTER PROYECTS\RED_SOCIAL_FLUTTER\BUILD\WINDOWS\CMAKEFILES\2B5CBD0BD045ABD419DEF9D48334DA68\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\NENYC\ONEDRIVE\ESCRITORIO\JAZMIN\FLUTTER PROYECTS\RED_SOCIAL_FLUTTER\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/nenyc/OneDrive/Escritorio/Jazmin/Flutter Proyects/red_social_flutter/windows" "-BC:/Users/nenyc/OneDrive/Escritorio/Jazmin/Flutter Proyects/red_social_flutter/build/windows" --check-stamp-file "C:/Users/nenyc/OneDrive/Escritorio/Jazmin/Flutter Proyects/red_social_flutter/build/windows/flutter/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

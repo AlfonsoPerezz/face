@@ -1,0 +1,10 @@
+^C:\USERS\NENYC\ONEDRIVE\ESCRITORIO\JAZMIN\FLUTTER PROYECTS\RED_SOCIAL_FLUTTER\BUILD\WINDOWS\CMAKEFILES\E1F20F0A463AF133226D6CDCEF6D234B\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\nenyc\OneDrive\Escritorio\Jazmin\Flutter Proyects\red_social_flutter\build\windows\CMakeFiles\474fd4856d840a768c930354b9fb4e4f\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\nenyc\OneDrive\Escritorio\Jazmin\Flutter Proyects\red_social_flutter\build\windows\CMakeFiles\2b5cbd0bd045abd419def9d48334da68\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\nenyc\OneDrive\Escritorio\Jazmin\Flutter Proyects\red_social_flutter\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\nenyc\OneDrive\Escritorio\Jazmin\Flutter Proyects\red_social_flutter\build\windows\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F40EC932-6B5B-3587-A48D-E22BCBD60A75}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
